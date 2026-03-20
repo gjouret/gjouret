@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guido Jouret
 - 👀 I’m interested in AI projects
-- 🌱 I’m currently learning Python
+- 🌱 I mostly code in Swift & Python
 - 💞️ I’m looking to collaborate on hot new startups
 - 📫 How to reach me: linkedin.com/in/gjouret
 
